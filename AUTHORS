@@ -1,0 +1,42 @@
+src                            -*- text -*-
+---
+
+* Hệ điều hành Pintos ban đầu được viết bởi Ben Pfaff <blp@cs.stanford.edu>.
+
+* Các tính năng bổ sung được đóng góp bởi Anthony Romano <chz@vt.edu>.
+
+* Cấu trúc và hình thức ban đầu của hệ điều hành này được lấy cảm hứng từ
+  hệ thống Nachos của Đại học California, Berkeley. Một số file nguồn là
+  bản dịch gần như nguyên văn từ mã C++ của Nachos sang C và giữ lại bản quyền gốc của UCB.
+
+projects
+--------
+
+* Các project chủ yếu được tạo ra bởi Ben Pfaff <blp@cs.stanford.edu>.
+
+* Godmar Back <godmar@gmail.com> đóng góp đáng kể vào việc thiết kế các project.
+
+* Mặc dù nhiều phần đã thay đổi, các project này ban đầu được phát triển dựa trên
+  các bài tập do các trợ giảng CS140 tại Đại học Stanford thiết kế, bao gồm:
+
+	- Yu Ping <yph@cs.stanford.edu>
+	- Greg Hutchins
+	- Kelly Shaw <kashaw (at) cs.stanford.edu>
+	- Paul Twohey <twohey AT cs DOT stanford DOT edu>
+	- Sameer Qureshi <squreshi@cs.stanford.edu>
+	- John Rector
+
+  Nếu bạn không có tên trong danh sách này nhưng nghĩ rằng nên có, xin vui lòng liên hệ.
+
+* Mã ví dụ về condition variable được lấy từ bài giảng lớp học ban đầu của Dawson Engler và được cập nhật bởi Mendel Roseblum.
+
+Modifications
+-------------
+
+* Các chỉnh sửa và phát triển thêm trong đồ án này được thực hiện bởi:
+
+  - Hoàng Anh Quý - 20214066
+  - Doãn Đăng Nhật - 20214031
+
+  Dựa trên đề tài "Periodically listing file access" thuộc Project 3 của Pintos.
+
